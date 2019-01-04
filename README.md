@@ -24,8 +24,8 @@ Finally, the latest release of Seaborn visualization package, which  can be inst
 
 For other Linux flavors, OS X and Windows, packages are available at
 
-http://www.python.org/getit/
-https://www.scipy.org/install.html
+http://www.python.org/getit/  
+https://www.scipy.org/install.html  
 https://seaborn.pydata.org/installing.html#installing
 
 
