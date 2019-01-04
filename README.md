@@ -41,7 +41,8 @@ https://seaborn.pydata.org/installing.html#installing
 The code is ready to be used and just requires running the following command:
 
     $ python Main.py
-    
+
+The code is well commented and easy to understand. The different parameters calculated and used for the simulations are:
 ``` python
 # S0 corresponds to the starting price of the stock
 # sigma is the daily volatility
@@ -56,7 +57,11 @@ mu = annual_return
 T = 10
 dt = 1/trading_days_per_year
 n_ETF = 10000 / S0
+
+# num_iterations is the number of times the random process is repeated (Monte Carlo simulations)
+num_iterations = 100
 ```
+
 
 ## Contributing
 
