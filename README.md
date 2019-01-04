@@ -19,9 +19,11 @@ For other Linux flavors, OS X and Windows, packages are available at
 http://www.python.org/getit/
 
 
-## Running the tests
+## File descriptions
 
-Explain how to run the automated tests for this system
+* 'Main.py' which contains the main procedure, as well as the data pre-processing of the xlsx file 'Quant Dev_CandidateExercise_Price_Rev_201811.xlsx'
+- 'Monte_Carlo_GBM.py' which contains the different algorithms.
+- 'Post_processing.py' where all the functions for post-processing (plots, informations) are implemented.
 
 ### Break down into end to end tests
 
