@@ -18,11 +18,11 @@ Alongside Python, the SciPy packages are also required. In Ubuntu and Debian, th
 
     $ sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
 
-Finally, the latest release of Seaborn visualization package, which  can be installed with pip:
+Finally, the latest release of Seaborn visualization package, which can be installed with pip:
     
     $ pip install seaborn
 
-For other Linux flavors, OS X and Windows, packages are available at
+For other Linux flavors, OS X and Windows, packages are available at:
 
 http://www.python.org/getit/  
 https://www.scipy.org/install.html  
