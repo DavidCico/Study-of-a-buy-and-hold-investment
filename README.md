@@ -66,6 +66,9 @@ num_iterations = 100
 
 <img src="https://github.com/DavidCico/Study-of-buy-and-hold-investment/blob/master/Example_Results/analytic_exp_gbm.png" width="256" height="256" title="Github Logo">
 
+<img src="https://github.com/DavidCico/Study-of-buy-and-hold-investment/blob/master/Example_Results/Hists_fig2.pdf" width="256" height="256" title="Github Logo">
+
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://github.com/DavidCico/Study-of-buy-and-hold-investment/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
