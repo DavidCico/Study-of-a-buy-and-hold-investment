@@ -21,19 +21,18 @@ http://www.python.org/getit/
 
 ## File descriptions
 
+* 'ETF_data.xlsx' which is a univariate time series of the historical price of the ETF investment.
 * 'Main.py' which contains the main procedure, as well as the data pre-processing of the xlsx file 'ETF_data.xlsx'
 * 'Monte_Carlo_GBM.py' which contains the different algorithms used for comparison.
 * 'Post_processing.py' where all the functions for post-processing (plots, information, descriptive statistics) are implemented.
 
 ### Running the program
 
-To run run the program
+To run the program
 
     python Main.py
-    
-```
-Give an example
-```
+
+
 
 ## Contributing
 
