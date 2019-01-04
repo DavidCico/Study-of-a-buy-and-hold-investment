@@ -61,14 +61,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **David Cicoria** - *Initial work* - [DavidCico](https://github.com/DavidCico)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+See also the list of [contributors](https://github.com/DavidCico/Study-of-buy-and-hold-investment/graphs/contributors) who participated in this project.
