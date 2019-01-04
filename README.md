@@ -21,15 +21,16 @@ http://www.python.org/getit/
 
 ## File descriptions
 
-* 'Main.py' which contains the main procedure, as well as the data pre-processing of the xlsx file 'Quant Dev_CandidateExercise_Price_Rev_201811.xlsx'
- 'Monte_Carlo_GBM.py' which contains the different algorithms.
- 'Post_processing.py' where all the functions for post-processing (plots, informations) are implemented.
+* 'Main.py' which contains the main procedure, as well as the data pre-processing of the xlsx file 'ETF_data.xlsx'
+* 'Monte_Carlo_GBM.py' which contains the different algorithms used for comparison.
+* 'Post_processing.py' where all the functions for post-processing (plots, information, descriptive statistics) are implemented.
 
-dsffdd
-### Break down into end to end tests
+### Running the program
 
-Explain what these tests test and why
+To run run the program
 
+    python Main.py
+    
 ```
 Give an example
 ```
