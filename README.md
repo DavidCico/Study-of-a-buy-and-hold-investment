@@ -1,5 +1,5 @@
 # Buy-and-hold investment study
-This code shows an exmaple of a buy-and-hold investment using python, and Monte Carlo methods to predict the investment return in the future.
+This code shows an exmaple of a buy-and-hold investment of an ETF using python, and Monte Carlo methods to predict the investment return in the future.
 
 ## Getting Started
 
@@ -7,32 +7,44 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You need Python 3.4 or later to run mypy.  You can have multiple Python
-versions (2.x and 3.x) installed on the same system without problems.
+You need Python 3.x to run the following code.  You can have multiple Python
+versions (2.x and 3.x) installed on the same system without problems. Python needs to be first installed then SciPy, and finally Seaborn as there are dependencies on packages.
 
 In Ubuntu, Mint and Debian you can install Python 3 like this:
 
     $ sudo apt-get install python3 python3-pip
 
+Alongside Python, the SciPy packages are also required. In Ubuntu and Debian, the SciPy ecosystem can be installed by:
+
+    $ sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
+
+Finally, the latest release of Seaborn visualization package, which  can be installed with pip:
+    
+    $ pip install seaborn
+
 For other Linux flavors, OS X and Windows, packages are available at
 
 http://www.python.org/getit/
+https://www.scipy.org/install.html
+https://seaborn.pydata.org/installing.html#installing
 
 
 ## File descriptions
 
-* 'ETF_data.xlsx' which is a univariate time series of the historical price of the ETF investment.
+* 'ETF_data' which is a univariate time series of the price history of the ETF.
 * 'Main.py' which contains the main procedure, as well as the data pre-processing of the xlsx file 'ETF_data.xlsx'
 * 'Monte_Carlo_GBM.py' which contains the different algorithms used for comparison.
 * 'Post_processing.py' where all the functions for post-processing (plots, information, descriptive statistics) are implemented.
 
 ### Running the program
 
-To run the program
+The code is ready to be used and just requires running the following command:
 
-    python Main.py
-
-
+    $ python Main.py
+    
+```
+Give an example
+```
 
 ## Contributing
 
