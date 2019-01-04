@@ -63,7 +63,6 @@ num_iterations = 100
 ```
 
 <img src="https://github.com/DavidCico/Study-of-buy-and-hold-investment/blob/master/Example_Results/analytic_exp_gbm.png" width="256" height="256" title="Github Logo">
-
 <img src="https://github.com/DavidCico/Study-of-buy-and-hold-investment/blob/master/Example_Results/Hists_fig2.jpg" width="256" height="256" title="Github Logo">
 
 
