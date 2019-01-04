@@ -42,8 +42,20 @@ The code is ready to be used and just requires running the following command:
 
     $ python Main.py
     
-```
-Give an example
+``` python
+# S0 corresponds to the starting price of the stock
+# sigma is the daily volatility
+# mu correponds to the mean daily returns
+# T is the number of years for the simulation
+# n_days is the number of days of the simulation
+# dt corresponds to the timestep of 1 day
+# n_ETF corresponds to the number of ETF held
+S0 = ETF_data.close[-1]
+sigma = annual_sigma
+mu = annual_return
+T = 10
+dt = 1/trading_days_per_year
+n_ETF = 10000 / S0
 ```
 
 ## Contributing
