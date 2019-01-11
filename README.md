@@ -1,5 +1,5 @@
 # Buy-and-hold investment study
-This code shows an exmaple of a buy-and-hold investment of an ETF using python, and Monte Carlo methods to predict the investment return in the future.
+This code shows an example of a buy-and-hold investment of an ETF using Python, and Monte Carlo methods to predict the investment return in the future.
 
 ## Getting Started
 
