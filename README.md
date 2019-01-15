@@ -12,15 +12,15 @@ versions (2.x and 3.x) installed on the same system without problems. Python nee
 
 In Ubuntu, Mint and Debian you can install Python 3 like this:
 
-    $ sudo apt-get install python3 python3-pip
+    sudo apt-get install python3 python3-pip
 
 Alongside Python, the SciPy packages are also required. In Ubuntu and Debian, the SciPy ecosystem can be installed by:
 
-    $ sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
+    sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
 
 Finally, the latest release of Seaborn visualization package, which can be installed with pip:
     
-    $ pip install seaborn
+    pip install seaborn
 
 For other Linux flavors, OS X and Windows, packages are available at:
 
@@ -40,7 +40,7 @@ https://seaborn.pydata.org/installing.html#installing
 
 The code is ready to be used and just requires running the following command:
 
-    $ python Main.py
+    python Main.py
 
 The code is well commented and easy to understand. The different parameters calculated and used for the simulations are:
 ``` python
