@@ -33,7 +33,7 @@ https://seaborn.pydata.org/installing.html#installing
     <li>'ETF_data' which is a univariate time series of the price history of the ETF.</li>
 <li>'Main.py' which contains the main procedure, as well as the data pre-processing of the xlsx file 'ETF_data.xlsx'</li>
     <li>'Monte_Carlo_GBM.py' which contains the different algorithms used for comparison.</li>
-<li><p align="justify">'Post_processing.py' where all the functions for post-processing (plots, information, descriptive statistics) are implemented.</p></li>
+<li><div align="justify">'Post_processing.py' where all the functions for post-processing (plots, information, descriptive statistics) are implemented.</div></li>
 </ul>
 
 ### Running the program
