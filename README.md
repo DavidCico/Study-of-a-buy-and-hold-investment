@@ -43,6 +43,7 @@ The code is ready to be used and just requires running the following command:
     python Main.py
 
 <p align="justify">The code is well commented and easy to understand. The different parameters calculated and used for the simulations are:</p>
+
 ``` python
 # S0 corresponds to the starting price of the stock
 # sigma is the daily volatility
