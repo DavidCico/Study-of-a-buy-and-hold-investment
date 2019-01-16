@@ -28,7 +28,7 @@ https://www.scipy.org/install.html
 https://seaborn.pydata.org/installing.html#installing
 
 
-## File descriptions
+### File descriptions
 <ul>
     <li>'ETF_data' which is a univariate time series of the price history of the ETF.</li>
 <li>'Main.py' which contains the main procedure, as well as the data pre-processing of the xlsx file 'ETF_data.xlsx'</li>
