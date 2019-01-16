@@ -1,14 +1,13 @@
 # Buy-and-hold investment study
-This code shows an example of a buy-and-hold investment of an ETF using Python, and Monte Carlo methods to predict the investment return in the future.
+<p align="justify">This code shows an example of a buy-and-hold investment of an ETF using Python, and Monte Carlo methods to predict the investment return in the future.</p>
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+<p align="justify">These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.</p>
 
 ### Prerequisites
 
-You need Python 3.x to run the following code.  You can have multiple Python
-versions (2.x and 3.x) installed on the same system without problems. Python needs to be first installed then SciPy, and finally Seaborn as there are dependencies on packages.
+<p align="justify">You need Python 3.x to run the following code.  You can have multiple Python versions (2.x and 3.x) installed on the same system without problems. Python needs to be first installed then SciPy, and finally Seaborn as there are dependencies on packages.</p>
 
 In Ubuntu, Mint and Debian you can install Python 3 like this:
 
@@ -30,12 +29,12 @@ https://seaborn.pydata.org/installing.html#installing
 
 
 ## File descriptions
-
+<p align="justify">
 * 'ETF_data' which is a univariate time series of the price history of the ETF.
 * 'Main.py' which contains the main procedure, as well as the data pre-processing of the xlsx file 'ETF_data.xlsx'
 * 'Monte_Carlo_GBM.py' which contains the different algorithms used for comparison.
 * 'Post_processing.py' where all the functions for post-processing (plots, information, descriptive statistics) are implemented.
-
+</p>
 ### Running the program
 
 The code is ready to be used and just requires running the following command:
