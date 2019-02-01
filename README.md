@@ -30,15 +30,15 @@ https://seaborn.pydata.org/installing.html#installing
 
 ### File descriptions
 <ul>
-    <li>'ETF_data' which is a univariate time series of the price history of the ETF.</li>
-<li>'Main.py' which contains the main procedure, as well as the data pre-processing of the xlsx file 'ETF_data.xlsx'</li>
-    <li>'Monte_Carlo_GBM.py' which contains the different algorithms used for comparison.</li>
-<li><div align="justify">'Post_processing.py' where all the functions for post-processing (plots, information, descriptive statistics) are implemented.</div></li>
+    <li>'<em>ETF_data</em>' which is a univariate time series of the price history of the ETF.</li>
+    <li>'<em>Main.py</em>' which contains the main procedure, as well as the data pre-processing of the xlsx file 'ETF_data.xlsx'</li>
+    <li>'<em>Monte_Carlo_GBM.py</em>' which contains the different algorithms used for comparison.</li>
+<li><div align="justify">'<em>Post_processing.py</em>' where all the functions for post-processing (plots, information, descriptive statistics) are implemented.</div></li>
 </ul>
 
 ### Running the program
 
-The code is ready to be used and just requires running the following command:
+The different "<em>.py</em>" files need to be placed in the same folder for the main script to be run. The code is then ready to be used, and just requires running the following command:
 
     python Main.py
 
